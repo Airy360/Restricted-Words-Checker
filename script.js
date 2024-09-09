@@ -13,7 +13,7 @@ const restrictedKeywords = [
     "assured", "proven", "fungus", "mold", "burn fat", "depression", "essential oils", "autistic", 
     "mildew", "virus", "viral", "remedy", "better", "allergies", "dust mites", "health", "irritant", 
     "irritation", "anxiety", "weighted", "stress", "earth friendly", "earth-friendly", "food-grade",
-    "food grade", "pathogens", "dead",
+    "food grade", "pathogens", "dead", "acne",
 ];
 
 const suggestionsMap = {
