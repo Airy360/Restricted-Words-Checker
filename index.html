@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <h1>Content Compliance Checker</h1>
+        </div>
+        <nav class="nav">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <section class="input-section">
+            <h2>Ensure Your Content Meets Compliance Standards</h2>
+            <p>Use our checker to verify your content's adherence to industry standards and regulations.</p>
+            <textarea id="product-description" placeholder="Enter your product description here..." rows="6"></textarea>
+            <button class="submit-button">Check Compliance</button>
+            <div id="warning" style="color: red; margin-top: 20px;"></div>
+        </section>
+        <div class="suggestion-box" id="suggestion-box">
+            <h3 id="h3suggestions">Suggestions to Replace Restricted Keywords</h3>
+            </div>
+    </main>
+</body>
+<script src="script.js"></script>
+</html>
