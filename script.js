@@ -13,7 +13,9 @@ const restrictedKeywords = [
     "assured", "proven", "fungus", "mold", "burn fat", "depression", "essential oils", "autistic", 
     "mildew", "virus", "viral", "remedy", "better", "allergies", "dust mites", "health", "irritant", 
     "irritation", "anxiety", "weighted", "stress", "earth friendly", "earth-friendly", "food-grade",
-    "food grade", "pathogens", "dead", "acne", "treatments", "clinically", "naturally", "healthier", "allergen", "ADHD", "flu",
+    "food grade", "pathogens", "dead", "acne", "treatments", "clinically", "naturally", "healthier", 
+    "allergen", "ADHD", "flu", "environmentally friendly", "100% organic", "organic", "high quality",
+    "chemicals", "planet-friendly", "planet friendly", "eco-conscious",
 ];
 
 const suggestionsMap = {
