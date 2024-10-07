@@ -15,7 +15,8 @@ const restrictedKeywords = [
     "irritation", "anxiety", "weighted", "stress", "earth friendly", "earth-friendly", "food-grade",
     "food grade", "pathogens", "dead", "acne", "treatments", "clinically", "naturally", "healthier", 
     "allergen", "ADHD", "flu", "environmentally friendly", "100% organic", "organic", "high quality",
-    "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", 
+    "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", "antibacterial",
+    "inflammation", "bacterial", "recommended", "trusted", "paraben",
 ];
 
 const suggestionsMap = {
