@@ -16,7 +16,8 @@ const restrictedKeywords = [
     "food grade", "pathogens", "dead", "acne", "treatments", "clinically", "naturally", "healthier", 
     "allergen", "ADHD", "flu", "environmentally friendly", "100% organic", "organic", "high quality",
     "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", "antibacterial",
-    "inflammation", "bacterial", "recommended", "trusted", "paraben",
+    "inflammation", "bacterial", "recommended", "trusted", "paraben", "safely", "medicated", "sulfate",
+    "alopecia", "ageing", "aging",
 ];
 
 const suggestionsMap = {
