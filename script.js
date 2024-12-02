@@ -17,7 +17,8 @@ const restrictedKeywords = [
     "allergen", "ADHD", "flu", "environmentally friendly", "100% organic", "organic", "high quality",
     "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", "antibacterial",
     "inflammation", "bacterial", "recommended", "trusted", "paraben", "safely", "medicated", "sulfate",
-    "alopecia", "ageing", "aging", "testing",
+    "alopecia", "ageing", "aging", "testing", "toxins", "toxin", "anti-bacterial", "germs", "bacterial",
+    "illness", "safest", "antibiotics", "antibiotic", "healing"
 ];
 
 const suggestionsMap = {
