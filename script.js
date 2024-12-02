@@ -18,7 +18,7 @@ const restrictedKeywords = [
     "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", "antibacterial",
     "inflammation", "bacterial", "recommended", "trusted", "paraben", "safely", "medicated", "sulfate",
     "alopecia", "ageing", "aging", "testing", "toxins", "toxin", "anti-bacterial", "germs", "bacterial",
-    "illness", "safest", "antibiotics", "antibiotic", "healing"
+    "illness", "safest", "antibiotics", "antibiotic", "healing", "eczema",
 ];
 
 const suggestionsMap = {
