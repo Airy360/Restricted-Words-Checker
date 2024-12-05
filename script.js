@@ -6,7 +6,7 @@ const restrictedKeywords = [
     "weight loss", "anxiety", "recovery", "cure", "relief", "compostable", "recyclable", "disposable", 
     "healthy", "furry", "FDA", "disease", "all-natural", "earth-friendly", "high-quality", "top-grade", 
     "best", "premium", "invincible", "indestructible", "insect", "pesticides", "chemical", 
-    "anti-", "toxin", "contamination", "contaminants", "detox", "certified", "tested", "guaranteed", 
+    "toxin", "contamination", "contaminants", "detox", "certified", "tested", "guaranteed", 
     "validated", "bacteria", "germs", "treatment", "heal", "treat", "ADHD", "detoxify", "miracle", 
     "paraben", "sulphates", "drugs", "complaint", "cruelty-free", "vegan", "vegetarian", "therapy", 
     "allergens", "BPA-free", "hypoallergenic", "alleviate", "medical", "safe", "safety", "Non-GMO", 
@@ -18,7 +18,7 @@ const restrictedKeywords = [
     "chemicals", "planet-friendly", "planet friendly", "eco-conscious", "worry-free", "safer", "antibacterial",
     "inflammation", "bacterial", "recommended", "trusted", "paraben", "safely", "medicated", "sulfate",
     "alopecia", "ageing", "aging", "testing", "toxins", "toxin", "anti-bacterial", "germs", "bacterial",
-    "illness", "safest", "antibiotics", "antibiotic", "healing", "eczema",
+    "illness", "safest", "antibiotics", "antibiotic", "healing", "eczema", "anti-biotic", "anti-biotics",
 ];
 
 const suggestionsMap = {
