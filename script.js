@@ -20,7 +20,8 @@ const restrictedKeywords = [
     "alopecia", "ageing", "aging", "testing", "toxins", "toxin", "anti-bacterial", "germs", "bacterial",
     "illness", "safest", "antibiotics", "antibiotic", "healing", "eczema", "anti-biotic", "anti-biotics",
     "100% Cotton", "100% Pure Cotton", "GMP-Verified", "fight", "combat", "aromatherapy", "therapeutic",
-    "migraine", "cervical", "insomnia", "herniated disc", "arthritis", "apnea", "inflammatory",
+    "migraine", "cervical", "insomnia", "herniated disc", "arthritis", "apnea", "inflammatory", "tendonitis",
+    "tendinitis", "sexy", "asthma", "antioxidants",
 ];
 
 const suggestionsMap = {
